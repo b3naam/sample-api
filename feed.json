@@ -1,0 +1,32 @@
+{
+  "userid": "222300",
+  "userstatus": "0",
+  "PostsCount": "1120",
+  "timeStamp": 1330671600000,
+  "posts": [{
+        "id": 2,
+        "author": "120232",
+        "imageurl": "http://www.w3schools.com/json/json_example.asp",
+        "posttime": 1330671600000,
+        "poststatus": "0",
+        "place": "Kothi, Hyderabad",
+        "location": {
+            "latitude": 7.0,
+            "longitude": 12.0,
+            "altitude": 19.5
+        }
+    },
+    {
+        "id": 3,
+        "author": "120212",
+        "imageurl": "http://www.w3schools.com/json/json_example.asp",
+        "posttime": 1330671600000,
+        "poststatus": "0",
+        "place": "Kothi, Hyderabad",
+        "location": {
+            "latitude": 3.1,
+            "longitude": 1.0,
+            "altitude": 11.0
+        }
+    }  ]
+}
